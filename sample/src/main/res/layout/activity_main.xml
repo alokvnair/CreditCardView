@@ -28,7 +28,7 @@
             app:expiryDate="11/15"
             app:expiryDateTextColor="#cccccc"
             app:hintTextColor="#ffffff"
-            app:isEditable="false"
+            app:isEditable="true"
             app:isCardNumberEditable="true"
             app:putChip="true"
             app:type="visa"
